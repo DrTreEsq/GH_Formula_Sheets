@@ -1,4 +1,4 @@
-<h1 align="center"> Formula Sheet for Analytical and Computational 𝐌𝑎𝑇𝐇!</h1>
+<h1 align="center"> Formula Sheets for Analytical and Computational 𝐌𝑎𝑇𝐇!</h1>
 
 <h6 align="center"> The Code from Completion of Programming Assignments from courses in Mathematics for Machine Learning and Data Science by DeepLearning.AI</h6>
 
