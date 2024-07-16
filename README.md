@@ -195,7 +195,7 @@ Matrix A (* times) Matrix B of Unknown Variables / The Inverse Matrix = The Corr
 
 ###### pick the best model for the training data
 
-<h2 align="center"> Course 3: Probability & Statistics  - in Progress😰 </h2>
+<h2 align="center"> Course 3: Probability & Statistics  - in Progress✅ </h2>
 
 ## Basics
 
