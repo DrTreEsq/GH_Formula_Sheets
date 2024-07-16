@@ -15,3 +15,7 @@
   * C-Index
 * Trestment
 * 
+
+<h2 align="center"> Course 1: Diagnosis </h2>
+<h2 align="center"> Course 2: Prognosis </h2>
+<h2 align="center"> Course 3: Treatment </h2>
