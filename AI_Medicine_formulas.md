@@ -13,7 +13,7 @@
   * Risk Score w/out Interaction Term
   * Risk Score w/ Interaction Term
   * C-Index
-* Trestment
+* Treatment
 * 
 
 <h2 align="center"> Course 1: Diagnosis </h2>
