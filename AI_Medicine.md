@@ -13,6 +13,8 @@
   * Risk Score w/out Interaction Term
   * Risk Score w/ Interaction Term
   * C-Index
+  * Survival Function
+  * Kaplan Meier Estimator
 * Treatment
 * 
 
