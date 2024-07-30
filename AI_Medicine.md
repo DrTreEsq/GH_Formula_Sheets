@@ -14,7 +14,7 @@
   * Risk Score w/ Interaction Term
   * C-Index
   * Survival Function
-  * Kaplan Meier Estimator
+  * Kaplan Meier Estimator - probability of survival given the patient survives🚨
 * Treatment
 * 
 
