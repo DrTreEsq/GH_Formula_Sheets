@@ -1,9 +1,6 @@
-# Formulas:
-
-* Treatment
-* 
-
 <h2 align="center"> Course 3: Treatment </h2>
+
+# Formulas:
 
 Resources
 * natural logarithm online calculator - https://www.rapidtables.com/calc/math/Ln_Calc.html
